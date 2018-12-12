@@ -1,0 +1,14 @@
+.header{background-color:mediumblue;
+min-height:100px;}
+.body{border:1px solid black;}
+.blog{background-color:green;
+min-height:500px;
+width:40%;
+float:left;}
+.contact{background-color:indigo;
+min-height:500px;
+width:60%;
+float:right;}
+.footer{background-color:grey;
+min-height:50px;
+clear:both;}
